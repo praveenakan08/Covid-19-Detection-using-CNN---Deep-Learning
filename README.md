@@ -1,4 +1,4 @@
-# CovidProject
+# Covid-19 Prediction using CNN - Deep Learning
 
 The project's name is Detecting Covid-19 disease using DL.
 CNN -> Convolutional Neural Network is generally used for Image Recognition, Image Classification, Object Detection, and Ibject Segmentation.
